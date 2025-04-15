@@ -1,6 +1,6 @@
 <div align="center"> <!-- Bu satır animasyonu ortalamak için -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7A0¢er=true&vCenter=true&width=435&lines=Merhaba!+Ben+Zeynep;Yazılım+Geliştiriciyim;Kodlama+Benim+Tutkum!;Haydi+Bağlantı+Kuralım!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7A0¢er=true&vCenter=true&width=435&lines=Merhaba!+Ben+Zeynep;Yazılım+Geliştiriciyim;Haydi+Bağlantı+Kuralım!)](https://git.io/typing-svg)
 
 </div> <!-- Ortalamayı bitir -->
 
