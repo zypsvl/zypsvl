@@ -1,9 +1,5 @@
-## Hi there 👋
-## 🐍 Katkı Yılanım 
-
-
+## Hi there 👋 I'am Zeynep
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/zypsvl/snake-game/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
-![GitHub Contribution Snake](https://raw.githubusercontent.com/zypsvl/snake-game/main/dist/github-contribution-grid-snake.gif)
 
 <!--
 **zypsvl/zypsvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
