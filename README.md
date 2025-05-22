@@ -41,7 +41,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zypsvl&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/zypsvl/snake-game/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
