@@ -34,18 +34,22 @@ const zeynep = {
 > AI-powered fitness coaching app with personalized workout plans
 
 **Tech Stack:** Flutter • Firebase • Gemini AI • Cloud Firestore  
-**Features:**
-- 🤖 AI-generated personalized workout programs
-- 🔐 Firebase Authentication (Email + Google Sign-In)
-- 📊 1300+ exercises with CDN-powered GIF demonstrations
+**Highlights:**
+- 🤖 AI-generated personalized workout programs using Gemini
+- 🔐 Multi-auth: Email/Password + Google Sign-In
+- 📊 1300+ exercises with CDN-powered animated GIFs
 - 📈 Progress tracking with interactive calendar
-- 🌍 Multi-language support (EN/TR)
+- 🌍 Multi-language support (English/Turkish)
+- 💾 Real-time cloud sync with Firestore
 
 ### 🖼️ [GifDatabase](https://github.com/zypsvl/GifDatabase)
-> Public CDN repository for exercise GIF assets
+> Public CDN repository for exercise demonstration assets
 
-**Purpose:** Free CDN hosting for 285+ exercise GIFs via jsDelivr  
-**Impact:** Reduces app size by ~150 MB while maintaining fast loading
+**Tech:**
+- 📦 285+ high-quality exercise GIFs
+- 🌐 Served via jsDelivr CDN for global fast access
+- ⚡ Zero-cost hosting solution
+- 📉 Reduces app size by ~150 MB
 
 ---
 
@@ -58,46 +62,64 @@ const zeynep = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Cloud & DevOps
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### AI & APIs
+### AI & Cloud
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Firebase](https://img.shields.io/badge/Cloud_Firestore-FFFFFF?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zypsvl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zypsvl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zypsvl&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=zypsvl&theme=tokyonight&hide_border=true&border_radius=10)
+
 </div>
 
 ---
 
 ## 🎯 Current Goals
 
-- 🚀 Launch GymGenius app to production
-- 📱 Build more AI-powered mobile applications
-- 🌐 Contribute to open-source projects
-- 📚 Master advanced AI/ML techniques
-- 🎨 Create beautiful and intuitive user experiences
+- 🚀 Launch GymGenius app to production on Play Store
+- 📱 Develop more AI-powered mobile applications
+- 🌐 Contribute to open-source Flutter projects
+- 📚 Master advanced AI/ML integration techniques
+- 🎨 Design beautiful, intuitive user experiences
+- 💡 Share knowledge through tech blog posts
+
+---
+
+## 💡 Featured Skills
+
+**Mobile Development**
+- Cross-platform apps with Flutter
+- Native performance optimization
+- State management (Provider)
+- Firebase integration & authentication
+
+**AI Integration**
+- Google Gemini API implementation
+- Natural language processing for fitness coaching
+- Intelligent workout generation algorithms
+- Context-aware AI responses
+
+**Backend & Cloud**
+- Cloud Firestore database design
+- Real-time data synchronization
+- Firebase Authentication flows
+- RESTful API integration
 
 ---
 
@@ -109,13 +131,15 @@ const zeynep = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeynepsavli83@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zypsvl)
 
+**Open to collaborations and interesting projects!** 🤝
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 Dev Wisdom
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -125,7 +149,7 @@ const zeynep = {
 
 <div align="center">
 
-**Thanks for visiting! Have a great day! ✨**
+**Thanks for stopping by! Happy coding! ✨**
 
 ![Snake Animation](https://raw.githubusercontent.com/zypsvl/snake-game/main/dist/github-contribution-grid-snake-dark.svg)
 
@@ -134,5 +158,5 @@ const zeynep = {
 ---
 
 <div align="center">
-<sub>Made with ❤️ and lots of ☕</sub>
+<sub>💻 Built with passion • ☕ Powered by coffee • 🚀 Deployed with GitHub</sub>
 </div>
