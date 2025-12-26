@@ -81,36 +81,12 @@ const zeynep = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zypsvl&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zypsvl&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=zypsvl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zypsvl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zypsvl&theme=tokyonight&hide_border=true&border_radius=10)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zypsvl&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zypsvl&theme=tokyonight&no-frame=true&row=1&column=7)
-
+  <img src="https://streak-stats.demolab.com?user=zypsvl&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -141,7 +117,7 @@ const zeynep = {
 
 ### 💭 Random Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -151,7 +127,7 @@ const zeynep = {
 
 **Thanks for visiting! Have a great day! ✨**
 
-![Snake Animation](https://raw.githubusercontent.com/zypsvl/snake-game/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake Animation](https://raw.githubusercontent.com/zypsvl/snake-game/main/dist/github-contribution-grid-snake-dark.svg)
 
 </div>
 
